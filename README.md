@@ -7,10 +7,10 @@
 │                                                          │
 │   SYSTEM STATUS: ONLINE                                  │
 │                                                          │
-│   > building things                                     │
-│   > breaking things                                     │
-│   > learning how they work                              │
-│   > shipping anyway                                     │
+│   > building things                                      │
+│   > breaking things                                      │
+│   > learning how they work                               │
+│   > shipping anyway                                      │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
