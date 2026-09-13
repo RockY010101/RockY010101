@@ -75,7 +75,7 @@ A real-time watch party application with synchronized playback, rooms, chat, and
 
 A college management system handling student records, employee management, fees, expenses, authentication, and file-based persistence.
 
-`C++` `File Handling`
+`Java` `File Handling`
 
 → **[View Repository](https://github.com/RockY010101/College-ERP-system)**
 
